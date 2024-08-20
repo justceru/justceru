@@ -27,6 +27,9 @@ I'm always excited to meet new people and collaborate on interesting projects. F
 
 [Instagram](https://www.instagram.com/ceru.draemer/)
 
+## #30NitesOfCode:
+ 🔥 [Check out my progress!](https://www.codedex.io/@justcerulean/30-nites-of-code)  
+  ![@justcerulean #30NitesOfCode](https://www.codedex.io/api/petStatus?user=justcerulean)
 ---
 
 💡 "The only way to do great work is to love what you do." - Steve Jobs
